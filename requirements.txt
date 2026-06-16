@@ -1,3 +1,2 @@
 dnspython
 httpx
-pytest

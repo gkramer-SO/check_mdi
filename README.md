@@ -70,9 +70,3 @@ A positive result confirms that a candidate Defender for Identity sensor API end
 A negative result for a guessed candidate does not prove MDI is absent. It may only mean the tested workspace name was incorrect.
 
 Use this tool only for authorized security testing.
-
-## Tests
-
-```bash
-pytest
-```
